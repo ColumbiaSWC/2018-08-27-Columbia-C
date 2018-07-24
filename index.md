@@ -1,7 +1,7 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "swc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
-venue: "Columbia University"        # brief name of host site without address (e.g., "Euphoric State University")
+venue: "Columbia University, Programming in Python 1"        # brief name of host site without address (e.g., "Euphoric State University")
 address: "Butler Library 203, 535 West 114th Street, New York, NY"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
