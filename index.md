@@ -461,19 +461,9 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
       <a href="https://www.youtube.com/watch?v=339AEqk9c-8">Video Tutorial</a>
       <p>
         nano is a basic editor and the default that instructors use in the workshop.
-        To install it,
-        download the <a href="https://github.com/swcarpentry/windows-installer/releases/download/v0.3/SWCarpentryInstaller.exe">
-          {% if page.carpentry == "swc" %}
-          Software Carpentry
-          {% elsif page.carpentry == "dc" %}
-          Data Carpentry
-          {% elsif page.carpentry == "lc" %}
-          Library Carpentry
-          {% endif %}
-          Windows installer
-	</a>
-        and double click on the file to run it.
-        <strong>This installer requires an active internet connection.</strong>
+        See the Git installation <a href="https://www.youtube.com/watch?v=9LQhwETCdwY ">video tutorial</a>
+        for an example on how to open nano.
+        It will be pre-installed after Git for Windows has been installed.
       </p>
       <p>
         Others editors that you can use are
