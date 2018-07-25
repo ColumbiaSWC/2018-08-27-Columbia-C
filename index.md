@@ -312,12 +312,23 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
         <li>Download the Git for Windows <a href="https://git-for-windows.github.io/">installer</a>.</li>
         <li>Run the installer and follow the steps bellow:
           <ol>
-            {% comment %} Git 2.8.2 Setup {% endcomment %}
+            {% comment %} Git 2.18.0 Setup {% endcomment %}
             {% comment %} Information {% endcomment %}
             <li>Click on "Next".</li>
             {% comment %} Select Components {% endcomment %}
             <li>Click on "Next".</li>
             {% comment %} Adjusting your PATH environment {% endcomment %}
+            <li>Click on "Next".</li>
+            <li>Click on "Next".</li>
+            <li>Choosing the default editor used by Git
+	      <strong>Use the Nano editor by default
+	      </strong>
+	    </li>
+            <li>Click on "Next".</li>
+            <li>Click on "Next".</li>
+            <li>Click on "Next".</li>
+            <li>Checkout Windows-style</li>
+            <li>Click on "Next".</li>
             <li>
               <strong>
                 Keep "Use Git from the Windows Command Prompt" selected and click on "Next".
