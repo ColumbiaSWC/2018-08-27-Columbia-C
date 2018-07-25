@@ -320,8 +320,8 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
             {% comment %} Adjusting your PATH environment {% endcomment %}
             <li>Click on "Next".</li>
             <li>Click on "Next".</li>
-            <li>Choosing the default editor used by Git
-	      <strong>Use the Nano editor by default
+            <li>Under "Choosing the default editor used by Git", select 
+	      <strong>"Use the Nano editor by default"
 	      </strong>
 	    </li>
             <li>Click on "Next".</li>
